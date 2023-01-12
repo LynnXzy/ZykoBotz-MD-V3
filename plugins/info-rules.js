@@ -18,19 +18,19 @@ let rules = `➯ *Tɪᴅᴀᴋ Sᴘᴀᴍ Bᴏᴛ*
 
 
 • *Kebijakan Privasi:*
-1. ZykoBotz-MD tidak akan merekam data riwayat chat user.
-2. ZykoBotz-MD tidak akan menyebarkan nomor users.
-3. ZykoBotz-MD tidak akan menyimpan media yang dikirimkan oleh users.
-4. ZykoBotz-MD tidak akan menyalah gunakan data data users.
-5. Owner ZykoBotz-MD berhak melihat data riwayat chat users.
-6. Owner ZykoBotz-MD berhak melihat status users.
-7. Owner ZykoBotz-MD dapat melihat riwayat chat, dan media yang dikirimkan users.
+1. Lynn-MD tidak akan merekam data riwayat chat user.
+2. Lynn-MD tidak akan menyebarkan nomor users.
+3. Lynn-MD tidak akan menyimpan media yang dikirimkan oleh users.
+4. Lynn-MD tidak akan menyalah gunakan data data users.
+5. Owner Lynn-MD berhak melihat data riwayat chat users.
+6. Owner Lynn-MD berhak melihat status users.
+7. Owner Lynn-MD dapat melihat riwayat chat, dan media yang dikirimkan users.
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan ZykoBotz-MD Agar terhindar dari Suspand_
+_Cara penggunaan Lynn-MD Agar terhindar dari Suspand_
 
-• *Peraturan ZykoBotz-MD:*
+• *Peraturan Lynn-MD:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
 2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot.
 3. Users diharap tidak melakukan spam dalam penggunaan bot.
@@ -40,20 +40,20 @@ _Cara penggunaan ZykoBotz-MD Agar terhindar dari Suspand_
 • *Note:*
 1. Jika ada yang menjual/beli/sewa bot atas nomor ini, harap segera hubungi owner!
 2. Jika ingin donasi bisa langsung aja ya social payment Dana 
-3. jika ingin membeli scrip bot Whatsapp bisa langsung Hubungi ke no Whatsapp:wa.me/62 82127487538
+3. jika ingin membeli scrip bot Whatsapp bisa langsung Hubungi ke no Whatsapp:wa.me/60189830350
 3. Ketik .sewa Jika Ingin SewaBot 
 
 •Agar terhindar dari Suspand/Ban kalian bisa membaca juga di Peraturan kami.
 
 •Perlu kalian tahu bahwa kami menjaga Privasi dari data-data anda!
 
-• *Syarat Ketentuan ZykoBotz-MD:*
+• *Syarat Ketentuan Lynn-MD:*
 
-1. ZykoBotz-MD akan keluar dari group jika ada salah satu member melanggar peraturan.
-2. ZykoBotz-MD dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
-3. ZykoBotz-MD tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
-4. ZykoBotz-MD akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
-5. ZykoBotz-MD bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
+1. Lynn-MD akan keluar dari group jika ada salah satu member melanggar peraturan.
+2. Lynn-MD dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
+3. Lynn-MD tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
+4. Lynn-MD akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
+5. Lynn-MD bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 ❏┳━━◩
 ┍┛
 ┆⟥⟤ ➠ ${global.bottime}
@@ -61,13 +61,13 @@ _Cara penggunaan ZykoBotz-MD Agar terhindar dari Suspand_
 ${global.botdate}`
 let nth = `☰⟥⟝⟞⟝❨ *Rᴜʟᴇs Mʏ Bᴏᴛ* ❩⟞⟝⟞⟤☰`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://wa.me/message/IT4R6JHOR74XP1',
+    mediaUrl: 'https://wa.me/message/B3FEW6UKKRC5E1',
     mediaType: 2, 
     description: sgc,
     title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ Cᴜʏ!!!",
     body: wm,
     thumbnail: fs.readFileSync('./media/qr.png'),
-    sourceUrl: 'https://wa.me/message/IT4R6JHOR74XP1',
+    sourceUrl: 'https://wa.me/message/B3FEW6UKKRC5E1',
      }}
   })
 }
