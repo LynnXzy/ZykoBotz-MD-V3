@@ -15,7 +15,7 @@ let str = `
 │ • *Ovo:* [${global.povo}]
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────`
-let wibu = `https://telegra.ph/file/82f399cf9dd246029ad4a.jpg` 
+let wibu = 'https://telegra.ph/file/f2c69a474714a70b7f2d6.jpg'
 let thumb = await(await fetch(wibu)).buffer()
 conn.send3ButtonDoc(m.chat, str, botdate,'Sewa Bot','.sewa','QR+PAYMENT','.donasi1','Menu','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "tautanwa",
